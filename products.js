@@ -1,27 +1,27 @@
 let lessons = [
     {
     "id":101 ,
-    "subject": "Art",
-    "location": "Abuja",
+    "subject": "Government",
+    "location": "Kaduna",
     "price": 500,
     "availableInventory":5,
-    "image": "images/art.jpg"
+    "image": "images/government.jpg"
 },
 {
     "id":102 ,
-    "subject": "Math",
+    "subject": "Mathematics",
     "location": "Lagos",
     "price": 550,
     "availableInventory":5,
-    "image": "images/Math.JPEG"
+    "image": "images/Mathematics.jpg"
 },
 {
     "id":103 ,
-    "subject": "ICT",
+    "subject": "Computer",
     "location": "Ilorin",
     "price": 650,
     "availableInventory":5,
-    "image": "images/ict.jpg"
+    "image": "images/computer.jpg"
 },
 {
     "id":104 ,
@@ -50,7 +50,7 @@ let lessons = [
 {
     "id":107 ,
     "subject": "Literature",
-    "location": "Lagos Island",
+    "location": "Victoria Island",
     "price": 400,
     "availableInventory":5,
     "image": "images/lit.jpg"
@@ -58,25 +58,25 @@ let lessons = [
 {
     "id":108 ,
     "subject": "Physics",
-    "location": "Abuja",
-    "price": 450,
+    "location": "Yola",
+    "price": 459,
     "availableInventory":5,
     "image": "images/physics.jpg"
 },
 {
     "id":109 ,
     "subject": "Chemistry",
-    "location": "Ilorin",
-    "price": 550,
+    "location": "Kogi",
+    "price": 510,
     "availableInventory":5,
     "image": "images/chem.jpg"
 },
 {
     "id":110 ,
-    "subject": "Music",
-    "location": "Abuja",
+    "subject": "Biology",
+    "location": "Kano",
     "price": 300,
     "availableInventory":5,
-    "image": "images/music.jpg"
+    "image": "images/biology.jpg"
 },
 ]
