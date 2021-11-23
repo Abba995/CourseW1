@@ -13,7 +13,7 @@ let lessons = [
     "location": "Lagos",
     "price": 550,
     "availableInventory":5,
-    "image": "images/Mathematics.jpg"
+    "image": "images/mathematics.jpg"
 },
 {
     "id":103 ,
@@ -33,11 +33,11 @@ let lessons = [
 },
 {
     "id":105 ,
-    "subject": "French",
+    "subject": "Hausa",
     "location": "Lagos",
     "price": 350,
     "availableInventory":5,
-    "image": "images/french.jpg"
+    "image": "images/hausa.jpg"
 },
 {
     "id":106 ,
@@ -53,7 +53,7 @@ let lessons = [
     "location": "Victoria Island",
     "price": 400,
     "availableInventory":5,
-    "image": "images/lit.jpg"
+    "image": "images/literature.jpg"
 },
 {
     "id":108 ,
@@ -69,7 +69,7 @@ let lessons = [
     "location": "Kogi",
     "price": 510,
     "availableInventory":5,
-    "image": "images/chem.jpg"
+    "image": "images/chemistry.jpg"
 },
 {
     "id":110 ,
